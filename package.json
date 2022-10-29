@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-project",
+  "version": "1.0.0",
+  "description": "This is a demo project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Edward Adelasoye",
+  "license": "ISC",
+  "dependencies": {
+    "loadash": "^1.0.0",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
